@@ -1,5 +1,3 @@
-File: Rat 2 Electric Boogaloo
-
 # Class Entity
 ## --Class Stats
 &nbsp;&nbsp;--Base Stats<br/>

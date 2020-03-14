@@ -1,13 +1,13 @@
 File: Rat 2 Electric Boogaloo
 Class Entity
 
---Class Stats\
-  --Base Stats\
-  --Buff Stats\
-  --Debuff Stats\
-  --Gear Stats\
-  --Total Stats\
---Class Atb\
---Class Ability\
---Class Status\
---Class Info\
+--Class Stats<br/>
+  --Base Stats<br/>
+  --Buff Stats<br/>
+  --Debuff Stats<br/>
+  --Gear Stats<br/>
+  --Total Stats<br/>
+--Class Atb<br/>
+--Class Ability<br/>
+--Class Status<br/>
+--Class Info<br/>

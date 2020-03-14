@@ -1,7 +1,7 @@
 File: Rat 2 Electric Boogaloo
 
 # Class Entity
-## --Class Stats<br/>
+## --Class Stats
 &nbsp;&nbsp;--Base Stats<br/>
 &nbsp;&nbsp;--Buff Stats<br/>
 &nbsp;&nbsp;--Debuff Stats<br/>
